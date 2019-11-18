@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "br.aracomp.strandSort.Main",
+            "projectName": "PAA"
+        }
+    ]
+}
